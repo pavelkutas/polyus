@@ -21,12 +21,12 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/pavelkutas/polyus/edit/main/docs/',
+            'https://github.com/pavelkutas/polyus/edit/gh-pages/docs/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/pavelkutas/polyus/edit/main/blog/',
+            'https://github.com/pavelkutas/polyus/edit/gh-pages/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
