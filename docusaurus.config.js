@@ -8,7 +8,7 @@ const config = {
   baseUrl: '/polyus/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.png',
+  favicon: 'static/img/favicon.ico',
   organizationName: 'pavelkutas', // Usually your GitHub org/user name.
   projectName: 'polyus', // Usually your repo name.
   deploymentBranch: 'gh-pages', // Specify the branch to deploy to
@@ -41,7 +41,7 @@ const config = {
       title: 'Polyus Documentation',
       logo: {
         alt: 'Polyus Logo',
-        src: 'img/logo.svg',
+        src: 'static/img/logo.svg',
       },
       items: [
         {
